@@ -5,9 +5,9 @@ This project analyzes an E-commerce dataset to uncover key business insights rel
 
 ## The analysis is structured into:
 
-🔹 # Basic Level (Fundamentals)
-🔸 # Intermediate Level (Business Insights)
-🔺 # Advanced Level (Strategic Analysis)
+🔹 - Basic Level (Fundamentals)
+🔸 - Intermediate Level (Business Insights)
+🔺 - Advanced Level (Strategic Analysis)
 
 This project simulates real-world tasks performed by a Data Analyst / Business Analyst.
 
